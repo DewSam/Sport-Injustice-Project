@@ -1,0 +1,140 @@
+,region,Bronze,Gold,Silver,total,"Population, total",country,date,gdppc,income_level
+0,Algeria,0.0,0.0,2.0,2.0,40551398.0,Algeria,2016,11826.1513798141,Low & middle income
+1,Algeria,0.0,0.0,2.0,2.0,40551398.0,Algeria,2016,11826.1513798141,Low & middle income
+2,Algeria,0.0,0.0,2.0,2.0,40551398.0,Algeria,2016,11826.1513798141,Middle income
+3,Argentina,0.0,21.0,1.0,22.0,43590368.0,Argentina,2016,23189.5274451329,Low & middle income
+4,Argentina,0.0,21.0,1.0,22.0,43590368.0,Argentina,2016,23189.5274451329,Middle income
+5,Argentina,0.0,21.0,1.0,22.0,43590368.0,Argentina,2016,23189.5274451329,Upper middle income
+6,Armenia,0.0,1.0,3.0,4.0,2936147.0,Armenia,2016,11303.0678498177,Low & middle income
+7,Armenia,0.0,1.0,3.0,4.0,2936147.0,Armenia,2016,11303.0678498177,Middle income
+8,Armenia,0.0,1.0,3.0,4.0,2936147.0,Armenia,2016,11303.0678498177,Upper middle income
+9,Australia,25.0,23.0,34.0,82.0,24190907.0,Australia,2016,48116.0310826944,High income
+10,Austria,2.0,0.0,0.0,2.0,8736668.0,Austria,2016,53345.7415259818,High income
+11,Azerbaijan,10.0,1.0,7.0,18.0,9757812.0,Azerbaijan,2016,14232.1926180142,Low & middle income
+12,Azerbaijan,10.0,1.0,7.0,18.0,9757812.0,Azerbaijan,2016,14232.1926180142,Middle income
+13,Azerbaijan,10.0,1.0,7.0,18.0,9757812.0,Azerbaijan,2016,14232.1926180142,Upper middle income
+14,Bahrain,0.0,1.0,1.0,2.0,1425793.0,Bahrain,2016,47937.7090620549,High income
+15,Belarus,7.0,1.0,4.0,12.0,9469379.0,Belarus,2016,17883.1264992839,Low & middle income
+16,Belarus,7.0,1.0,4.0,12.0,9469379.0,Belarus,2016,17883.1264992839,Middle income
+17,Belarus,7.0,1.0,4.0,12.0,9469379.0,Belarus,2016,17883.1264992839,Upper middle income
+18,Belgium,2.0,2.0,17.0,21.0,11331422.0,Belgium,2016,49829.9273887741,High income
+19,Brazil,6.0,36.0,8.0,50.0,206163056.0,Brazil,2016,14451.1528423266,Low & middle income
+20,Brazil,6.0,36.0,8.0,50.0,206163056.0,Brazil,2016,14451.1528423266,Middle income
+21,Brazil,6.0,36.0,8.0,50.0,206163056.0,Brazil,2016,14451.1528423266,Upper middle income
+22,Bulgaria,6.0,0.0,1.0,7.0,7127822.0,Bulgaria,2016,20740.7948473544,Low & middle income
+23,Bulgaria,6.0,0.0,1.0,7.0,7127822.0,Bulgaria,2016,20740.7948473544,Middle income
+24,Bulgaria,6.0,0.0,1.0,7.0,7127822.0,Bulgaria,2016,20740.7948473544,Upper middle income
+25,Burundi,0.0,0.0,1.0,1.0,10488002.0,Burundi,2016,794.60434044461,Low income
+26,Burundi,0.0,0.0,1.0,1.0,10488002.0,Burundi,2016,794.60434044461,Low & middle income
+27,Canada,61.0,4.0,4.0,69.0,36109487.0,Canada,2016,47457.5853457244,High income
+28,China,37.0,46.0,30.0,113.0,1387790000.0,China,2016,13399.1373202744,Low & middle income
+29,China,37.0,46.0,30.0,113.0,1387790000.0,China,2016,13399.1373202744,Middle income
+30,China,37.0,46.0,30.0,113.0,1387790000.0,China,2016,13399.1373202744,Upper middle income
+31,Colombia,3.0,3.0,2.0,8.0,48175048.0,Colombia,2016,14194.515663803,Low & middle income
+32,Colombia,3.0,3.0,2.0,8.0,48175048.0,Colombia,2016,14194.515663803,Middle income
+33,Colombia,3.0,3.0,2.0,8.0,48175048.0,Colombia,2016,14194.515663803,Upper middle income
+34,Croatia,2.0,7.0,15.0,24.0,4174349.0,Croatia,2016,25944.2583430013,High income
+35,Denmark,16.0,15.0,10.0,41.0,5728010.0,Denmark,2016,54185.0084787703,High income
+36,Dominican Republic,1.0,0.0,0.0,1.0,10397738.0,Dominican Republic,2016,16166.6115259959,Low & middle income
+37,Dominican Republic,1.0,0.0,0.0,1.0,10397738.0,Dominican Republic,2016,16166.6115259959,Middle income
+38,Dominican Republic,1.0,0.0,0.0,1.0,10397738.0,Dominican Republic,2016,16166.6115259959,Upper middle income
+39,Estonia,4.0,0.0,0.0,4.0,1315790.0,Estonia,2016,32008.9343566614,High income
+40,Ethiopia,5.0,1.0,2.0,8.0,103603461.0,Ethiopia,2016,1894.89736397042,Low income
+41,Ethiopia,5.0,1.0,2.0,8.0,103603461.0,Ethiopia,2016,1894.89736397042,Low & middle income
+42,Fiji,0.0,13.0,0.0,13.0,872406.0,Fiji,2016,12820.7570376546,Low & middle income
+43,Fiji,0.0,13.0,0.0,13.0,872406.0,Fiji,2016,12820.7570376546,Middle income
+44,Fiji,0.0,13.0,0.0,13.0,872406.0,Fiji,2016,12820.7570376546,Upper middle income
+45,Finland,1.0,0.0,0.0,1.0,5495303.0,Finland,2016,46206.7878130494,High income
+46,France,21.0,20.0,55.0,96.0,66724104.0,France,2016,43705.1475593257,High income
+47,Georgia,4.0,2.0,1.0,7.0,3727505.0,Georgia,2016,12963.7439586374,Low & middle income
+48,Georgia,4.0,2.0,1.0,7.0,3727505.0,Georgia,2016,12963.7439586374,Middle income
+49,Georgia,4.0,2.0,1.0,7.0,3727505.0,Georgia,2016,12963.7439586374,Upper middle income
+50,Germany,67.0,49.0,43.0,159.0,82348669.0,Germany,2016,51879.6725937905,High income
+51,Greece,3.0,3.0,1.0,7.0,10775971.0,Greece,2016,28239.9192063819,High income
+52,Grenada,0.0,0.0,1.0,1.0,110263.0,Grenada,2016,15614.2977914991,Low & middle income
+53,Grenada,0.0,0.0,1.0,1.0,110263.0,Grenada,2016,15614.2977914991,Middle income
+54,Grenada,0.0,0.0,1.0,1.0,110263.0,Grenada,2016,15614.2977914991,Upper middle income
+55,Hungary,7.0,12.0,3.0,22.0,9814023.0,Hungary,2016,28218.2791845991,High income
+56,India,1.0,0.0,1.0,2.0,1324517250.0,India,2016,5851.39488049329,Low & middle income
+57,India,1.0,0.0,1.0,2.0,1324517250.0,India,2016,5851.39488049329,Low & middle income
+58,India,1.0,0.0,1.0,2.0,1324517250.0,India,2016,5851.39488049329,Middle income
+59,Indonesia,0.0,2.0,2.0,4.0,261556386.0,Indonesia,2016,10531.1109693569,Low & middle income
+60,Indonesia,0.0,2.0,2.0,4.0,261556386.0,Indonesia,2016,10531.1109693569,Low & middle income
+61,Indonesia,0.0,2.0,2.0,4.0,261556386.0,Indonesia,2016,10531.1109693569,Middle income
+62,Ireland,0.0,0.0,3.0,3.0,4755335.0,Ireland,2016,72150.0399688693,High income
+63,Israel,2.0,0.0,0.0,2.0,8546000.0,Israel,2016,38214.4853580071,High income
+64,Italy,24.0,8.0,40.0,72.0,60627498.0,Italy,2016,40837.7376281437,High income
+65,Jamaica,2.0,11.0,17.0,30.0,2906242.0,Jamaica,2016,9553.09619583089,Low & middle income
+66,Jamaica,2.0,11.0,17.0,30.0,2906242.0,Jamaica,2016,9553.09619583089,Middle income
+67,Jamaica,2.0,11.0,17.0,30.0,2906242.0,Jamaica,2016,9553.09619583089,Upper middle income
+68,Japan,34.0,17.0,13.0,64.0,127076000.0,Japan,2016,40727.9688771598,High income
+69,Jordan,0.0,1.0,0.0,1.0,9554286.0,Jordan,2016,10036.5436154339,Low & middle income
+70,Jordan,0.0,1.0,0.0,1.0,9554286.0,Jordan,2016,10036.5436154339,Middle income
+71,Jordan,0.0,1.0,0.0,1.0,9554286.0,Jordan,2016,10036.5436154339,Upper middle income
+72,Kazakhstan,10.0,3.0,5.0,18.0,17794055.0,Kazakhstan,2016,24210.8629616382,Low & middle income
+73,Kazakhstan,10.0,3.0,5.0,18.0,17794055.0,Kazakhstan,2016,24210.8629616382,Middle income
+74,Kazakhstan,10.0,3.0,5.0,18.0,17794055.0,Kazakhstan,2016,24210.8629616382,Upper middle income
+75,Kenya,1.0,6.0,6.0,13.0,49051531.0,Kenya,2016,4144.74433402459,Low & middle income
+76,Kenya,1.0,6.0,6.0,13.0,49051531.0,Kenya,2016,4144.74433402459,Low & middle income
+77,Kenya,1.0,6.0,6.0,13.0,49051531.0,Kenya,2016,4144.74433402459,Middle income
+78,Kosovo,0.0,1.0,0.0,1.0,1777557.0,Kosovo,2016,10031.0441699213,Low & middle income
+79,Kosovo,0.0,1.0,0.0,1.0,1777557.0,Kosovo,2016,10031.0441699213,Middle income
+80,Kosovo,0.0,1.0,0.0,1.0,1777557.0,Kosovo,2016,10031.0441699213,Upper middle income
+81,Lithuania,5.0,0.0,2.0,7.0,2868231.0,Lithuania,2016,31925.8034212317,High income
+82,Malaysia,1.0,0.0,7.0,8.0,30684652.0,Malaysia,2016,25541.7705112243,Low & middle income
+83,Malaysia,1.0,0.0,7.0,8.0,30684652.0,Malaysia,2016,25541.7705112243,Middle income
+84,Malaysia,1.0,0.0,7.0,8.0,30684652.0,Malaysia,2016,25541.7705112243,Upper middle income
+85,Mexico,2.0,0.0,3.0,5.0,123333379.0,Mexico,2016,19539.2612488443,Low & middle income
+86,Mexico,2.0,0.0,3.0,5.0,123333379.0,Mexico,2016,19539.2612488443,Middle income
+87,Mexico,2.0,0.0,3.0,5.0,123333379.0,Mexico,2016,19539.2612488443,Upper middle income
+88,Mongolia,1.0,0.0,1.0,2.0,3056358.0,Mongolia,2016,10961.9680419823,Low & middle income
+89,Mongolia,1.0,0.0,1.0,2.0,3056358.0,Mongolia,2016,10961.9680419823,Low & middle income
+90,Mongolia,1.0,0.0,1.0,2.0,3056358.0,Mongolia,2016,10961.9680419823,Middle income
+91,Morocco,1.0,0.0,0.0,1.0,35126274.0,Morocco,2016,7105.85595703125,Low & middle income
+92,Morocco,1.0,0.0,0.0,1.0,35126274.0,Morocco,2016,7105.85595703125,Low & middle income
+93,Morocco,1.0,0.0,0.0,1.0,35126274.0,Morocco,2016,7105.85595703125,Middle income
+94,Netherlands,13.0,9.0,25.0,47.0,17030314.0,Netherlands,2016,53847.8265545448,High income
+95,New Zealand,5.0,6.0,25.0,36.0,4714100.0,New Zealand,2016,41620.3479648419,High income
+96,Niger,0.0,0.0,1.0,1.0,20788789.0,Niger,2016,1151.17622403893,Low income
+97,Niger,0.0,0.0,1.0,1.0,20788789.0,Niger,2016,1151.17622403893,Low & middle income
+98,Nigeria,18.0,0.0,0.0,18.0,185960244.0,Nigeria,2016,5284.89322799694,Low & middle income
+99,Nigeria,18.0,0.0,0.0,18.0,185960244.0,Nigeria,2016,5284.89322799694,Low & middle income
+100,Nigeria,18.0,0.0,0.0,18.0,185960244.0,Nigeria,2016,5284.89322799694,Middle income
+101,Norway,19.0,0.0,0.0,19.0,5234519.0,Norway,2016,63104.0807823312,High income
+102,Philippines,0.0,0.0,1.0,1.0,103663812.0,Philippines,2016,7705.05376971311,Low & middle income
+103,Philippines,0.0,0.0,1.0,1.0,103663812.0,Philippines,2016,7705.05376971311,Low & middle income
+104,Philippines,0.0,0.0,1.0,1.0,103663812.0,Philippines,2016,7705.05376971311,Middle income
+105,Poland,10.0,3.0,3.0,16.0,37970087.0,Poland,2016,28682.6935399803,High income
+106,Portugal,1.0,0.0,0.0,1.0,10325452.0,Portugal,2016,31847.5377347647,High income
+107,Puerto Rico,0.0,1.0,0.0,1.0,3406672.0,Puerto Rico,2016,34539.5955195025,High income
+108,Qatar,0.0,0.0,1.0,1.0,2654379.0,Qatar,2016,95601.8073141158,High income
+109,Romania,10.0,4.0,2.0,16.0,19702267.0,Romania,2016,25144.9963025527,High income
+110,Serbia,13.0,14.0,27.0,54.0,7058322.0,Serbia,2016,16182.8283896249,Low & middle income
+111,Serbia,13.0,14.0,27.0,54.0,7058322.0,Serbia,2016,16182.8283896249,Middle income
+112,Serbia,13.0,14.0,27.0,54.0,7058322.0,Serbia,2016,16182.8283896249,Upper middle income
+113,Slovenia,1.0,1.0,2.0,4.0,2065042.0,Slovenia,2016,34853.0421239497,High income
+114,South Africa,14.0,2.0,7.0,23.0,56207649.0,South Africa,2016,13897.1393679721,Low & middle income
+115,South Africa,14.0,2.0,7.0,23.0,56207649.0,South Africa,2016,13897.1393679721,Middle income
+116,South Africa,14.0,2.0,7.0,23.0,56207649.0,South Africa,2016,13897.1393679721,Upper middle income
+117,Spain,17.0,9.0,19.0,45.0,46484062.0,Spain,2016,38477.5791805612,High income
+118,Sweden,3.0,2.0,23.0,28.0,9923085.0,Sweden,2016,51334.4320301641,High income
+119,Switzerland,2.0,6.0,3.0,11.0,8373338.0,Switzerland,2016,68663.2438230835,High income
+120,Tajikistan,0.0,1.0,0.0,1.0,8663575.0,Tajikistan,2016,3113.25763705849,Low & middle income
+121,Tajikistan,0.0,1.0,0.0,1.0,8663575.0,Tajikistan,2016,3113.25763705849,Low & middle income
+122,Tajikistan,0.0,1.0,0.0,1.0,8663575.0,Tajikistan,2016,3113.25763705849,Middle income
+123,Thailand,2.0,2.0,2.0,6.0,68971313.0,Thailand,2016,16782.0986705337,Low & middle income
+124,Thailand,2.0,2.0,2.0,6.0,68971313.0,Thailand,2016,16782.0986705337,Middle income
+125,Thailand,2.0,2.0,2.0,6.0,68971313.0,Thailand,2016,16782.0986705337,Upper middle income
+126,Tunisia,3.0,0.0,0.0,3.0,11303942.0,Tunisia,2016,11114.4748738352,Low & middle income
+127,Tunisia,3.0,0.0,0.0,3.0,11303942.0,Tunisia,2016,11114.4748738352,Low & middle income
+128,Tunisia,3.0,0.0,0.0,3.0,11303942.0,Tunisia,2016,11114.4748738352,Middle income
+129,Ukraine,5.0,2.0,8.0,15.0,45004673.0,Ukraine,2016,11536.31640625,Low & middle income
+130,Ukraine,5.0,2.0,8.0,15.0,45004673.0,Ukraine,2016,11536.31640625,Low & middle income
+131,Ukraine,5.0,2.0,8.0,15.0,45004673.0,Ukraine,2016,11536.31640625,Middle income
+132,United Arab Emirates,1.0,0.0,0.0,1.0,9360975.0,United Arab Emirates,2016,66510.8936658052,High income
+133,Uzbekistan,7.0,4.0,2.0,13.0,31847900.0,Uzbekistan,2016,6663.94961394254,Low & middle income
+134,Uzbekistan,7.0,4.0,2.0,13.0,31847900.0,Uzbekistan,2016,6663.94961394254,Low & middle income
+135,Uzbekistan,7.0,4.0,2.0,13.0,31847900.0,Uzbekistan,2016,6663.94961394254,Middle income
+136,Vietnam,0.0,1.0,1.0,2.0,93640435.0,Vietnam,2016,8498.81128457573,Low & middle income
+137,Vietnam,0.0,1.0,1.0,2.0,93640435.0,Vietnam,2016,8498.81128457573,Low & middle income
+138,Vietnam,0.0,1.0,1.0,2.0,93640435.0,Vietnam,2016,8498.81128457573,Middle income
